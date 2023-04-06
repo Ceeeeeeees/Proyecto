@@ -1,0 +1,5 @@
+.logo img {
+    width: 20rem; /* Cambia el valor para ajustar el tamaño */
+   
+    display: flex;
+}
