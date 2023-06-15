@@ -1,0 +1,13 @@
+.footer{
+    padding: $separacion / 2 0;
+    background-color: $fondo3_v;
+
+    .contenedor-footer{
+        padding-top: $separacion / 2;
+    }
+
+    .copy{
+        color: $blanco;
+        text-align: center;
+    }
+}

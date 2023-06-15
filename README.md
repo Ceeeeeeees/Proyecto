@@ -1,6 +1,6 @@
-Pagina web de Salud y Bienestar
+##Pagina Web de Salud y Bienestar
 
-Integrantes del equipo:
+##Integrantes del equipo:
 
     -   Guerrero Pérez Brandon Josue.					
     -   Martinez Verá Vanessa.						
@@ -9,7 +9,8 @@ Integrantes del equipo:
     -   Rojas Cruz José Angel.						
     -   Saucedo Moreno César Enrique.		
 
-    Grupo:                  6CV1
+    #Ingeniería de Software
+    #Grupo:                  6CV1
 
                     (:
 
