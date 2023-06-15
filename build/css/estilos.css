@@ -3,3 +3,8 @@
    
     display: flex;
 }
+.icono img{
+    width: 10rem; /* Cambia el valor para ajustar el tamaño */
+   
+    
+}
