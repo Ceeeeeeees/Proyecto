@@ -3,7 +3,7 @@
 #Integrantes del equipo:
 
     -   Guerrero Pérez Brandon Josue.					
-    -   Martinez Verá Vanessa.						
+     -Mendez Almendarez Ricardo					
     -   Mora Campos Ricardo Uriel.					
     -   Reyes Becerra Lizeth Angelica.					
     -   Rojas Cruz José Angel.						
