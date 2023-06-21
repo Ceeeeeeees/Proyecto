@@ -1,10 +1,16 @@
-.no-webp .inicio{
-    background-image: url(../img/fondo2.png);
-}
 
-.webp .inicio{
+  .no-webp .inicio {
+    background-size: 100%;
     background-image: url(../img/fondo2.png);
-}
+    
+  }
+  
+  .webp .inicio {
+    background-size: 100%;
+    background-image: url(../img/fondo2.webp);
+  
+  }
+  
 
 .header {
 
